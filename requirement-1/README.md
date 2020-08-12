@@ -1,4 +1,4 @@
-# Virtual disk design kata
+# Virtual storage design kata
 ## Requirement 1
 * User can store files in this virtual disk.
 * We are not going to move/save any real file; just store file's name and size.
