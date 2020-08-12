@@ -1,4 +1,4 @@
-# Virtual disk design kata
+# Virtual storage design kata
 ## Requirements reminder
 * A Directory has a name and stores File(s). It can add and delete file(s).
 * A File has a name (a string) and a size (an int).
